@@ -1,0 +1,51 @@
+"""brand""";"""founded_by""";"""founded_in""";"""country""";"""key_people""";"""industry""";"""website""";"""rank_2022""";"""rating_2022""";"""brand_value_2022""";"""brand_value_2021""";"""change"""
+Apple;Steve Jobs, Steve Wozniak,Ronald Wayne;1976;United States;Tim Cook(CEO);Consumer electronics, Software Service, Online Services;https://www.apple.com/;1;AAA;355079.97;263374.7;35%
+Amazon;Jeff Bezos;1994;United States;Andy Jassy(CEO);E-Commerce, Cloud Computing, Artificial Intelligence, Consumer electronics, Entertainment, Digital Distribution, Self-Driving Cars, Supermarket;https://www.amazon.com/;2;AAA+;350273.25;254187.58;38%
+Google;Larry Page, Sergey Brin;1998;United States;Sundar Pichai(CEO);Artificial Intelligence, Advertising, Cloud Computing, Computer Software, Computer Hardware, Internet;https://www.google.com/;3;AAA+;263424.93;191214.84;38%
+Microsoft;Bill Gates, Paul Allen;1975;United States;Satya Nadella(CEO);Information Technology;https://www.microsoft.com/;4;AAA;184244.52;140435.35;31%
+Walmart;Sam Walton;1962;United States;Doug McMillon(CEO);Retail;https://www.walmart.com/;5;AAA-;111918.32;93185.28;20%
+Samsung Group;Lee Byung-chul;1938;South Korea;Lee Jae-yong(Chairman);Conglomerate;https://www.samsung.com/;6;AAA-;107284;102623;5%
+Facebook;Mark Zuckerberg, Eduardo Saverin;2004;United States;Mark Zuckerberg(CEO);Social Networking Service, Publishing;https://facebook.com/;7;AA+;101200.52;81476.37;24%
+ICBC;People's Bank of China(Parent);1984;China;Gu Shu(CEO);Financial services;https://www.icbc.com.cn/icbc/en/;8;AAA+;75119.27;72788.38;3%
+Huawei;Ren Zhengfei;1987;China;Ren Zhengfei(CEO);Consumer Electronics, Telecom Equipment, Networking Equipment, Semiconductors, Artificial Intelligence, Automation, Cloud Computing, Internet Of Things;https://www.huawei.com/en/;9;AAA-;71232.74;55395.83;29%
+Verizon;Bell Atlantic Corp. and GTE Corp.;1983;United States;Hans Vestberg(CEO);Telecommunications, Mass Media;https://www.verizon.com/;10;AAA-;69639.25;68889.5;1%
+China Construction Bank;People's Bank of China name was changed to China Construction Bank by China's Ministry of Finance;1954;China;Wang Hongzhang(Chairman);Financial services;http://en.ccb.com/en/home/indexv3.html;11;AAA;65546.46;59649.12;10%
+Toyota;Kiichiro Toyoda;1937;Japan;Takeshi Uchiyamada(Chairman);Automotive;https://global.toyota/;12;AAA;64283;59479;8%
+WeChat;Tencent;2011;China;Ma Huateng(CEO of Tencent which develops WeChat);Instant messaging, social Media and mobile payment app;https://www.wechat.com/;13;AAA+;62302.54;67901.98;-8%
+Agricultural Bank Of China;Governement of China(with the merger of an agricultural bank with the central bank);1951;China;Gu Shu(Chairman);Financial services;https://www.abchina.com/;14;AAA;62031.22;53134.09;17%
+Mercedes-Benz;Emil Jellinek, Paul Daimler;1926;Germany;Sten Ola Kallenius(CEO);Automotive;https://www.mercedes-benz.com/en/;15;AAA-;60760;58225;4%
+State Grid;State Council of China;2002;China;Shu Yinbiao(Chairman);Electric utility;http://www.sgcc.com.cn/;16;AAA;60174.88;55202.86;9%
+Deutsche Telekom;Postal Adminstration 'Deutsche Bundespost' of the German Governement as split into 3 entities, one being Deutsche Telekom;1995;Germany;Timotheus Hottges(CEO);Telecommunications;https://www.telekom.com/en;17;AAA-;60168.74;51107.03;18%
+TikTok/Douyin;ByteDance;2016;China;Shou Zi Chew(CEO);Video Hosting;https://www.tiktok.com/https://www.douyin.com/;18;AA+;58979.93;18700;215%
+Disney;Walt Disney, Roy O. Disney;1923;United States;Bob Chapek(CEO);Media, Entertainment;https://thewaltdisneycompany.com/;19;AAA+;57059.42;51244.01;11%
+Home Depot;Bernard Marcus, Arthur Blank, Ron Brill, Pat Farrah, Ken Langone;1978;United States;Ted Decker(CEO);Retail;https://www.homedepot.com/;20;AAA-;56312.3;52917.39;6%
+Ping An;Ma Mingzhe;1988;China;Xie Yonglin(Co-CEO), Tan Sin Yin(Co-CEO), Yao Jason Bo(Co-CEO);Financial Services;https://group.pingan.com/;21;AAA-;54354;54579;0%
+Taobao;Alibaba group;2003;China;Trudy Dai Shan(chairwoman);C2C, E-commerce;https://www.taobao.com/;22;AAA-;53761.5;53335.29;1%
+Shell;Marcus Samuel, samuel Samuel, Jean B.A. Kessler, Henri Deterding, Hugo Loudon;1907;United Kingdom;Ben van Beurden(CEO);Energey, Petroleum;https://www.shell.com/;23;AAA-;49925.43;42156.08;18%
+Bank of China;Chen Jintao;1912;China;Liu Liange(Chairman);Financial services;https://www.boc.cn/en/;24;AAA;49553.38;48689.28;2%
+Tmall;Alibaba group;2008;China;Trudy Dai Shan(chairwoman);E-commerce, Retail;https://www.tmall.com/;25;AA+;49182.43;49178.92;0%
+AT&T;Alexander Graham Bell, Gardiner Greene Hubbard;1885;United States;John Stankey(CEO);Telecommunications, Technology;https://about.att.com/;26;AA;47008.54;51372.34;-8%
+Tencent;Pony Ma, Tony Zhang, Xu Chenye, Charles Chen, Zeng Liqing;1998;China;Pony Ma(CEO);Conglomerate;https://www.tencent.com/en-us/index.html;27;AAA-;46652.5;56432.39;-17%
+Tesla;Martin Eberhard, Marc Tarpenning;2003;United States;Elon Musk(CEO);Automotive, Renewable energy;https://www.tesla.com/;28;AA+;46009.69;31985.9;44%
+Starbucks;Jerry Baldwin, Zev Siegl, Gordon Bowker;1971;United States;Mellody Hobson(Chairwoman);Coffee shop;https://www.starbucks.com/;29;AAA;45699.13;38440.12;19%
+Allianz Group;Carl von Thieme;1890;Germany;Oliver Bate(CEO);Financial services;http://allianz.com/;30;AAA-;45203.47;15174;198%
+Aramco;Government Of saudi Arabia through a company 'Standard Oil of California'(SoCal) and its subsidiary 'California -Arabian Standard Oil'(CASOC). This CASOC name was later changed to 'Arabian-Americal Oil Co.(Aramco)';1933;Saudi Arabia;Amin H. Nasser(CEO);Oil and gas;https://www.aramco.com/;31;AA;43636.86;37478.64;16%
+Moutai;Kweichow Moutai Group;1999;China;Ding Xiongjun(CEO);Alcohol industry;http://www.moutaichina.com/;32;AAA;42905.18;45333.22;-5%
+Volkswagen;German Labour Front;1937;Germany;Ralf Brandstaetter(CEO);Automotive;https://www.vw.com/en.html;33;AAA-;41046;47020;-13%
+China Mobile;Incorporated in 1997 as China Telecom(Hong Kong), China Mobile was born from the 1999 break-up of China Telecommunications Corporation;1997;China;Dong Xin(CEO);Telecommunications;http://www.chinamobileltd.com/;34;AAA-;40902.69;37558.89;9%
+NTT Group;Government of Japan;1952;Japan;Akira Shimada(CEO);Telecommunications;https://group.ntt/en/ AND https://www.global.ntt/;35;AA+;40691;34238;19%
+McDonald's;Richard McDonald, Maurice McDonald, Ray Kroc;1940;United States;Chris Kempczinski(CEO);Restaurants, real estate;https://www.mcdonalds.com/us/en-us.html AND https://corporate.mcdonalds.com/corpmcd/home.html;36;AAA;39720.8;33838.36;17%
+Mitsubishi Group;Yatar? Iwasaki;1870;Japan;Group of 40 companies without a controlling parent company.;Automotive,Chemical,Electronics,Food,Financial,Metallurgy,Mining,Petroleum;https://www.mitsubishi.com/en/;37;AA-;39203;36296.92;8%
+UPS;James E. Casey;1907;United States;Carol Tome(CEO);Courier;http://ups.com/;38;AAA-;38533.32;30055.96;28%
+BMW;Camillo Castiglioni, Franz Josef Popp, Karl Rapp;1916;Germany;Oliver Zipse(CEO);Automotive;https://www.bmwgroup.com/en.html AND https://www.bmw.com/en/index.html;39;AAA-;37945.39;40447.11;-6%
+Costco;James Sinegal, Jeffrey Brotman;1983;United States;W. Craig Jelinek(CEO);Retail;https://www.costco.com/;40;AAA-;37501.35;28887.9;30%
+Bank of America;Amadeo Giannini, Hugh McColl;1998;United States;Brian Moynihan(CEO);Financial services;https://www.bankofamerica.com/;41;AA+;36719.17;32787.35;12%
+Marlboro;Philip Morris;1924;United States;Jacek Olczak(CEO of manufacturing company Philip Morris International);Cigarettes;https://www.marlboro.com/;42;AA+;36278;35572;2%
+Accenture;Arthur Andersen and Andersen Consulting;1989;Ireland;Julie Sweet(CEO);Professional services, Information technology, Consulting;https://www.accenture.com/;43;AAA;36190.05;26028.06;39%
+Coca-Cola;John Stith Pemberton;1886;United States;James Quincey(CEO of The Coca-Cola Company which manufactures Coca-Cola;Carbonated Soft Drink;https://www.coca-cola.com/;44;AAA+;35379.02;33166.17;7%
+Citi;Sanford Weill, Samuel Osgood;1998;United States;Jane Fraser(CEO);Financial services;https://www.citigroup.com/;45;AAA-;34443.07;32199.99;7%
+Porsche;Ferdinand Porsche;1931;Germany;Oliver Blume(CEO);Automotive;https://www.porsche.com/;46;AAA;33712.92;34325.53;-2%
+Instagram;Kevin Systrom, Mike Krieger;2010;United States;Adam Mosseri(Head Of Instagram);Video Sharing, Social Networking service;https://instagram.com/;47;AAA+;33483.24;25073.11;34%
+Lowe's;Lucius Smith Lowe;1921;United States;Marvin R. Ellison(CEO);Retail;https://lowes.com/;48;AAA-;33391.59;30376.09;10%
+Nike;Bill Bowerman, Phil Knight;1964;United States;John Donahoe(CEO);Apparel, Accessories, Sports Equipment;https://www.nike.com/;49;AAA-;33175.68;30443.3;9%
+UnitedHealthcare;Richard T. Burke;1977;United States;Andrew Witty(CEO);Managed Healthcare, Insurance;http://unitedhealthgroup.com/;50;AA+;32946.22;27308.02;21%
